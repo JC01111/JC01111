@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github.com/JC01111/JC01111/blob/7f5ce04cdb6a070bfba597d8bee40b9c93c6f410/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JC01111/JC01111/blob/7f5ce04cdb6a070bfba597d8bee40b9c93c6f410/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/JC01111/JC01111/blob/7f5ce04cdb6a070bfba597d8bee40b9c93c6f410/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/JC01111/JC01111/blob/7f5ce04cdb6a070bfba597d8bee40b9c93c6f410/github-contribution-grid-snake.svg" />
+</picture>
 
 ![](https://komarev.com/ghpvc/?username=JC01111)
+
