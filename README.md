@@ -49,3 +49,8 @@ Here are some ideas to get you started:
 
 ### OS
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux"  alt="Linux" width="55" height="55"/> <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Linux"  alt="Linux" width="55" height="55"/>
+
+<!-- 
+Github Stat
+<img src="https://github-readme-stats.vercel.app/api?username=jc01111&show_icons=true&hide=issues,contribs"/>
+-->
