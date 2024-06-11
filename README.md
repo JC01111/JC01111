@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <!--
 |.py|.java|.c|.cpp|.go|
 |----|----|----|----|----|
-|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="python" width="40" height="40"/>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="python" width="40" height="40"/>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="python" width="40" height="40"/>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="riscv" width="40" height="40"/>|
+|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="55" height="55"/>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="python" width="55" height="55"/>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="python" width="55" height="55"/>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="python" width="55" height="55"/>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="riscv" width="55" height="55"/>|
 -->
 
 ### My Tools in Python
@@ -38,4 +38,5 @@ Here are some ideas to get you started:
 |----------|----------|----------|----------|----------|----------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="Numpy" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="mpl" alt="mpl" width="55" height="55"/>|<img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="55" height="55"/>|
 
-### 
+### OS
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux"  alt="Linux" width="55" height="55"/> <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Linux"  alt="Linux" width="55" height="55"/>
