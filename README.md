@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=JC01111)
 
+Hello World! This is Jay Chen, a recent graduate from UC Berkeley in Computer Science. I am actively seeking positions as Software Engineer and Machine Learning Engineer. My expertise extends to data analysis, Machine Learning, and Software Engineering. Below, you will find some of my interesting projects, each accompanied by detailed demos and walk-throughs. I am a creative individual who continually generates innovative ideas.
+
 ### My Languages
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="python" width="45" height="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="java" width="45" height="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C" alt="c" width="45" height="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="cpp" width="45" height="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" title="Go" alt="go" width="45" height="45"/>
