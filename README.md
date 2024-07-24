@@ -30,11 +30,20 @@ Hello World! This is Jay, a new graduate from UC Berkeley in Computer Science. I
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="python" width="45" height="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="java" width="45" height="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C" alt="c" width="45" height="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="cpp" width="45" height="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" title="Go" alt="go" width="45" height="45"/>
 
-<!--
-|.py|.java|.c|.cpp|.go|
-|----|----|----|----|----|
-|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="55" height="55"/>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="python" width="55" height="55"/>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="python" width="55" height="55"/>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="python" width="55" height="55"/>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="riscv" width="55" height="55"/>|
--->
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" width=50/>
+  <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />  
+  <img alt="ShellScript" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" width=100/>
+  <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
+</p>
+
+
 
 ### My Frameworks and Tools
 <!--
