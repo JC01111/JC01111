@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=JC01111)
 
-Hello World! This is Jay, a new graduate from UC Berkeley in Computer Science. I am actively seeking positions as Software Engineer and Machine Learning Engineer. My expertise extends to Data Analysis, Machine Learning, and Software Engineering. Below, you will find some of my interesting projects, each accompanied by detailed demos and walk-throughs. I am a creative individual who continually generates innovative ideas.
+Hello World! This is Jay, I graduated from UC Berkeley in Computer Science. I am actively seeking positions as Software Engineer and Machine Learning Engineer. My expertise extends to Data Analysis, Machine Learning, and Software Engineering. Below, you will find some of my interesting projects, each accompanied by detailed demos and walk-throughs. I am a creative individual who continually generates innovative ideas.
 
 <br> <br>
 
@@ -64,6 +64,7 @@ Hello World! This is Jay, a new graduate from UC Berkeley in Computer Science. I
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff)](#)
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
