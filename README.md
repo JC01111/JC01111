@@ -28,9 +28,8 @@ Hello World! This is Jay, a new graduate from UC Berkeley in Computer Science. I
 
 <br> <br>
 
-[![Leetcode: Caleb](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fch233&logo=leetcode&logoColor=yellow)](https://leetcode.com/jaychCS/)
-[![LeetCode user ch233](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fch233&logo=leetcode&logoColor=yellow)](https://leetcode.com/jaychCS/)
-
+[![LeetCode user jaychCS](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FjaychCS&logo=leetcode&logoColor=yellow)](https://leetcode.com/jaychCS/)
+[![LeetCode user jaychCS](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FjaychCS&logo=leetcode&logoColor=yellow)](https://leetcode.com/jaychCS/)
 
 ### My Languages
 <!--
