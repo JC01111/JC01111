@@ -26,6 +26,12 @@ Here are some ideas to get you started:
 
 Hello World! This is Jay, a new graduate from UC Berkeley in Computer Science. I am actively seeking positions as Software Engineer and Machine Learning Engineer. My expertise extends to Data Analysis, Machine Learning, and Software Engineering. Below, you will find some of my interesting projects, each accompanied by detailed demos and walk-throughs. I am a creative individual who continually generates innovative ideas.
 
+<br> <br>
+
+[![Leetcode: Caleb](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fch233&logo=leetcode&logoColor=yellow)](https://leetcode.com/jaychCS/)
+[![LeetCode user ch233](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fch233&logo=leetcode&logoColor=yellow)](https://leetcode.com/jaychCS/)
+
+
 ### My Languages
 <!--
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="python" width="45" height="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="java" width="45" height="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C" alt="c" width="45" height="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="cpp" width="45" height="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" title="Go" alt="go" width="45" height="45"/>
