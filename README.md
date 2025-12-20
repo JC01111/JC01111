@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=JC01111)
 
-Hello World! This is Jay, I graduated from UC Berkeley in Computer Science. I am actively seeking positions as Software Engineer and Machine Learning Engineer. My expertise extends to Data Analysis, Machine Learning, and Software Engineering. Below, you will find some of my interesting projects, each accompanied by detailed demos and walk-throughs. I am a creative individual who continually generates innovative ideas.
+Hello World! This is Jay, I graduated from UC Berkeley in Computer Science. Currently doing modeling for recommendation system at Meta. Below, you will find some of my interesting projects, each accompanied by detailed demos and walk-throughs. I am a creative individual who continually generates innovative ideas.
 
 <br> <br>
 
